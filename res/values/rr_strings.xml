@@ -684,13 +684,6 @@
     <string name="keyguard_toggle_torch_title">Power button torch longpress</string>
     <string name="keyguard_toggle_torch_summary">Longpress power menu when screen is off to activate torch</string>
 
-    <!-- Selinux Switch -->
-    <string name="selinux_switch_title">Selinux switch options</string>
-    <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects. Use at your own risk.</string>
-    <string name="selinux_title">Selinux mode</string>
-    <string name="selinux_permissive_title">Permissive</string>
-    <string name="selinux_enforcing_title">Enforcing</string>
-
     <!-- Slim DSLV -->
     <string name="shortcut_action_none">None</string>
     <string name="shortcut_action_longpress">Long press:</string>
